@@ -2,7 +2,7 @@ Creation of a basic recipes website using just HTML, at this point, following in
 
 Skills that will be shown:
 
-*Basic use of the command line.
-*Use of Git commands.
-*Use of HTML boilerplate.
-*Show understanding of HTML tags, elements, attributes, and more.
+- Basic use of the command line.
+- Use of Git commands.
+- Use of HTML boilerplate.
+- Show understanding of HTML tags, elements, attributes, and more.
